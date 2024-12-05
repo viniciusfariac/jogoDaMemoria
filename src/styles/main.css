@@ -4,7 +4,6 @@ body {
     align-items: center;
     min-height: 100vh;
     background: linear-gradient(135deg, #355C7D, #6C5B7B);
-
     user-select: none;
 }
 
